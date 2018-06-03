@@ -1,15 +1,15 @@
 
-Ghouls'n Ghosts Remix:
+#Ghouls'n Ghosts Remix:
 
-- "Ghouls'n Ghosts Remix" its a remeke of Ghouls'n Ghosts a platform action game from
+* "Ghouls'n Ghosts Remix" its a remeke of Ghouls'n Ghosts a platform action game from
   capcom 1988 with some difference from the original game.
   Its a mix from ghosts'n goblins, ghouls'n ghosts and super ghouls'n ghosts.
 
-- "Ghouls'n Ghosts Remix" its made with the allegro library and MinGW. The code of
+* "Ghouls'n Ghosts Remix" its made with the allegro library and MinGW. The code of
   this game its developed under GNU/GPL.
   All the graphic and sound of this game are copyrighted by capcom.
 
-- Keys:
+* Keys:
    
    Menu keys:
     Cursor keys                        : Move
@@ -33,7 +33,7 @@ Ghouls'n Ghosts Remix:
   
   To recompile this game under linux see "linux.txt", to recompile
   under windows see "windows.txt", to recompile under MacOS see "macos.txt".
-  Thanks to Jérôme Rabas for MacOS porting of Ghouls'n Ghosts Remix.
+  Thanks to JÃ©rÃ´me Rabas for MacOS porting of Ghouls'n Ghosts Remix.
 
 - History:
 
@@ -65,7 +65,7 @@ Ghouls'n Ghosts Remix:
 
    0.46: Some enemies added.
          Thunders effect added (made with a recursive thunders generetor algorithm :-) ).
-         Full screen mode fixed in MacOS (thanks to Jérôme Rabas).
+         Full screen mode fixed in MacOS (thanks to JÃ©rÃ´me Rabas).
          Some minor bugs fixed.
 
    0.43: Fifth stage map started.
@@ -82,7 +82,7 @@ Ghouls'n Ghosts Remix:
          New weapon added (flame).
          Some major and minor bugs fixed.
 
-   0.38: Added instructions to port Ghouls'n Ghosts Remix to MacOS (Tanks to Jérôme Rabas).
+   0.38: Added instructions to port Ghouls'n Ghosts Remix to MacOS (Tanks to JÃ©rÃ´me Rabas).
          Magic power gauge added and magic weapon started.
          Some minor bugs fixed.
 
