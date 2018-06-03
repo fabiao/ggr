@@ -1,5 +1,5 @@
 
-#Ghouls'n Ghosts Remix:
+# Ghouls'n Ghosts Remix:
 
 * "Ghouls'n Ghosts Remix" its a remeke of Ghouls'n Ghosts a platform action game from
   capcom 1988 with some difference from the original game.
